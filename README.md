@@ -10,6 +10,7 @@ For taking care of the obstacles placed on the incline, we stuck a 15 cm scale o
 
 
 #Motivation and XLR8 Journey
+
 The intention and the enthusiasm behind participating in XLR8 was to explore and learn about different aspects of making a vehicle. A bot is the most basic replica of a vehicle. Being mechanical engineering students, we wanted to learn about the mechanical and electrical aspects of making a bot. Participating in the competition gave us an insight into the designing and working of vehicles. We are all motivated to participate in future competitions after XLR8, and want to explore more in this field.
 
 We all began pretty unsure about what to do. The get mechanized and get electrified sessions overwhelmed us. We did not know what to do next. One evening, all the members went to TL to see the mechanical components, and choose their dimensions. As we were trying to design and figure out the Physics of the bot, we understood what concepts were needed to be applied. Keepin in mind the torque, we chose 200 RPM motors. Keepin in mind the friction, we chose 4 cm wide wheels. Keeping in mind the center of mass, we decided to place th ebattery o the underside of the chassis, and a little behind to the center of the geometrical cenetr of bot, making it very stable as a whole for a variety of tracks in the problme statement. Our main goal was to complete succesfully, the staircase, the loose brodge, and the incline with the obstacles. We decided to implement differential mechanicsm in wheels, as the track required sharpp turns in certain places. 
@@ -21,6 +22,7 @@ We learnt a lot and this competition gave us an amazing experience of teamwork a
 
 
 #Resources used
+
 1) Get Mechanized and Get Electrified Session Slides
 2) Learnt soldering from Managers of ERC club
 3) The website link given by ERC club
