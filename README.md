@@ -1,4 +1,4 @@
-# Team-ADHD We are a team of 4 members
+#What makes our bot different from others?
 
 The bot has been built with a minimalist mindset. 
 Using the necessary mechanical components, we have built the bot to be exceptionally stable. We have used four 200 RPM motors and four wheels of 7 cm diameter and 4 cm width. The heaviest component of the bot, the battery, has been placed on the underside of the chassis, stuck using tape and fastened using wires. This helped us to put the center of mass of the bot below the chassis, making it resistant to toppling even on steep slopes and downslopes.
