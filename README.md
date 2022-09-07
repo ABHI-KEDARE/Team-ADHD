@@ -23,12 +23,12 @@ We learnt a lot and this competition gave us an amazing experience of teamwork a
 
 #Resources used
 
-1) Get Mechanized(https://docs.google.com/presentation/d/1yP27-7gte7Q5T_ogXwfUpPQqYkK1bJDiJti2h5lRcsg/edit?usp=sharing)
-and Get Electrified Session Slides(https://docs.google.com/presentation/d/1otfNwzUCJN0-Hk-PD6RiBOiJtSsZwehBm5pMYLyzcj0/edit?usp=sharing)
-2) Learnt soldering from Managers of ERC club
-3) The website link given by ERC club
-4) Previous years' videos of XLR8 on youtube
-5) Videos on the working of motor driver and ESP32
+1) Get Mechanized(https://docs.google.com/presentation/d/1yP27-7gte7Q5T_ogXwfUpPQqYkK1bJDiJti2h5lRcsg/edit?usp=sharing) and 
+2) Get Electrified Session Slides(https://docs.google.com/presentation/d/1otfNwzUCJN0-Hk-PD6RiBOiJtSsZwehBm5pMYLyzcj0/edit?usp=sharing)
+3) Learnt soldering from Managers of ERC club
+4) The website link given by ERC club
+5) Previous years' videos of XLR8 on youtube
+6) Videos on the working of motor driver and ESP32
 
 
 
